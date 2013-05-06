@@ -1,0 +1,77 @@
+@CHARSET "UTF-8";
+
+html,body {
+	background: url(../images/iebg.png);
+	margin: 0px;
+	font-size: 12px;
+	display: block;
+}
+
+div {
+	display: block;
+}
+
+form {
+	display: block;
+	margin-top: 0em;
+}
+
+#Top {
+	background: url(../images/bg1.png);
+	width: 1006px;
+	height: 83px;
+	margin: 0px auto;
+}
+
+#BodyBox {
+	background: url(../images/bg2.png);
+	width: 1006px;
+	margin: 0px auto;
+}
+
+#Body {
+	width: 908px;
+	margin: 0px auto;
+	padding: 10px;
+	background: #fff;
+}
+
+#Title {
+	line-height: 83px;
+	color: #fff;
+	font-weight: bold;
+	font-size: 36px;
+	margin-left: 100px;
+}
+.PageHead {
+padding: 5px;
+font-size: 12px;
+}
+#FormTitle {
+text-align: center;
+font-size: 24px;
+font-weight: bold;
+color: #333;
+}
+.FormPage {
+margin: 5px;
+padding: 5px;
+display: block;
+}
+.PageContent {
+color: #333;
+font-size: 14px;
+padding: 5px;
+text-indent: 2em;
+}
+.IBox {
+margin: 5px;
+padding: 5px;
+}
+.ItemName {
+font-weight: bold;
+height: 25px;
+line-height: 25px;
+padding-left: 10px;
+background: url(../images/bg.gif) 0px -130px;
+}
